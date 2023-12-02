@@ -1,0 +1,105 @@
+ * {
+     margin: 0px;
+     padding: 0px;
+ }
+
+ body {
+     /* font-weight:bold;  */
+     /* font-size: smaller; */
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+
+ .colorbox1 {
+     background-color: rgba(238, 13, 13, 0.913);
+
+     height: 100px;
+     width: 100%;
+ }
+
+ .div3 {
+     display: flex;
+     margin-left: 900px;
+     margin-top: 10px;
+ }
+
+ .searchbox {
+
+
+     margin-left: 950px;
+     line-height: 50px;
+ }
+
+ .searchbox input {
+     height: 25px;
+ }
+
+ .btn {
+     width: 70px;
+     height: 20px;
+     font-size: 15px;
+ }
+
+ .parent {
+     color: #6f6666;
+ }
+
+ .parent ul {
+     display: flex;
+     border: solid #fff 1px;
+     height: 30px;
+     box-shadow: 0px 0px 20px gray;
+
+ }
+
+ .parent ul li a {
+     /* text-decoration: none; */
+     margin-left: 30px;
+     color: black;
+
+ }
+
+ .parent ul li {
+     list-style: none;
+     padding-top: 8px;
+
+ }
+
+ .div4 {
+     width: 150px;
+     border: solid black 1px;
+     margin-left: 20px;
+     text-align: center;
+     height: 400px;
+ }
+
+ .div4 ul li a {
+     color: maroon;
+ }
+
+ .huzaifa {
+     display: flex;
+ }
+
+ .irha {
+     color: maroon;
+     margin-left: 20px;
+ }
+
+ .pera {
+     font-size: x-large;
+     margin-left: 20px;
+     color: maroon;
+ }
+
+ .para {
+     margin-left: 20px;
+ }
+
+ .aalo li {
+     margin-left: 50px;
+ }
+
+ .aalo li a {
+     color: maroon;
+ }
